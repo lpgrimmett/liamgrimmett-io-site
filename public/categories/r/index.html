@@ -28,7 +28,7 @@
   
     
   
-  <meta name="description" content="Liam Grimmett Statistics">
+  <meta name="description" content="Liam Grimmett - Statistics">
 
   
   <link rel="alternate" hreflang="en-us" href="/categories/r/">
@@ -39,7 +39,7 @@
   
   
   
-  <meta name="theme-color" content="#2962ff">
+  <meta name="theme-color" content="#EF525B">
   
 
   
@@ -72,8 +72,6 @@
       
     
 
-    
-    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/leaflet/1.5.1/leaflet.css" integrity="sha256-SHMGCYmST46SoyGgo4YR/9AlK1vf3ff84Aq9yK4hdqM=" crossorigin="anonymous">
     
 
     
@@ -195,7 +193,7 @@
   
   
   
-  <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Montserrat:400,700%7CRoboto:400,400italic,700%7CRoboto+Mono&display=swap">
+  <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Cutive+Mono%7CLora:400,700%7CRoboto:400,700&display=swap">
   
 
   
@@ -239,10 +237,10 @@
   <meta property="og:site_name" content="Liam Grimmett">
   <meta property="og:url" content="/categories/r/">
   <meta property="og:title" content="R | Liam Grimmett">
-  <meta property="og:description" content="Liam Grimmett Statistics"><meta property="og:image" content="img/map[gravatar:%!s(bool=false) shape:circle]">
+  <meta property="og:description" content="Liam Grimmett - Statistics"><meta property="og:image" content="img/map[gravatar:%!s(bool=false) shape:circle]">
   <meta property="twitter:image" content="img/map[gravatar:%!s(bool=false) shape:circle]"><meta property="og:locale" content="en-us">
   
-    <meta property="og:updated_time" content="2015-07-23T21:13:14-05:00">
+    
   
 
   
@@ -280,8 +278,7 @@
 
       <div id="search-box">
         
-        <input name="q" id="search-query" placeholder="Search..." autocapitalize="off"
-        autocomplete="off" autocorrect="off" spellcheck="false" type="search">
+        
         
       </div>
 
@@ -358,7 +355,7 @@
         
 
         <li class="nav-item">
-          <a class="nav-link " href="/#posts"><span>Posts</span></a>
+          <a class="nav-link " href="/#about"><span>About me</span></a>
         </li>
 
         
@@ -387,36 +384,7 @@
         
 
         <li class="nav-item">
-          <a class="nav-link " href="/#projects"><span>Projects</span></a>
-        </li>
-
-        
-        
-
-        
-
-        
-        
-        
-          
-        
-
-        
-        
-        
-        
-        
-        
-          
-          
-          
-            
-          
-          
-        
-
-        <li class="nav-item">
-          <a class="nav-link " href="/#featured"><span>Publications</span></a>
+          <a class="nav-link " href="/#posts"><span>Blog</span></a>
         </li>
 
         
@@ -438,7 +406,7 @@
         
 
         <li class="nav-item">
-          <a class="nav-link " href="/courses/"><span>Courses</span></a>
+          <a class="nav-link " href="/img/cv.pdf"><span>CV</span></a>
         </li>
 
         
@@ -481,11 +449,11 @@
 
     <ul class="nav-icons navbar-nav flex-row ml-auto d-flex pl-md-2">
       
-      <li class="nav-item">
-        <a class="nav-link js-search" href="#"><i class="fas fa-search" aria-hidden="true"></i></a>
-      </li>
-      
 
+      
+      <li class="nav-item">
+        <a class="nav-link js-dark-toggle" href="#"><i class="fas fa-moon" aria-hidden="true"></i></a>
+      </li>
       
 
       
@@ -535,12 +503,11 @@
     
     
     <div>
-      <h2><a href="/post/2015-07-23-r-rmarkdown/" >Hello R Markdown</a></h2>
+      <h2><a href="/post/stats_rl/stats_rl/" >Super League so far...</a></h2>
       <div class="article-style">
         
-          R Markdown This is an R Markdown document. Markdown is a simple formatting syntax for authoring HTML, PDF, and MS Word documents. For more details on using R Markdown see http://rmarkdown.rstudio.com.
-You can embed an R code chunk like this:
-summary(cars) ## speed dist ## Min. : 4.0 Min. : 2.00 ## 1st Qu.:12.0 1st Qu.: 26.00 ## Median :15.0 Median : 36.00 ## Mean :15.4 Mean : 42.98 ## 3rd Qu.
+           R Markdown  Including Plots You can also embed plots. See Figure 1 for example:
+par(mar = c(0, 1, 0, 1)) pie( c(280, 60, 20), c(&#39;Sky&#39;, &#39;Sunny side of pyramid&#39;, &#39;Shady side of pyramid&#39;), col = c(&#39;#0292D8&#39;, &#39;#F7EA39&#39;, &#39;#C4B632&#39;), init.angle = -50, border = NA )  Figure 1: A fancy pie chart.   
         
       </div>
     </div>
@@ -576,8 +543,6 @@ summary(cars) ## speed dist ## Min. : 4.0 Min. : 2.00 ## 1st Qu.:12.0 1st Qu.: 2
 
     
     
-      <script src="https://cdnjs.cloudflare.com/ajax/libs/leaflet/1.5.1/leaflet.js" integrity="sha256-EErZamuLefUnbMBQbsEqu1USa+btR2oIlCpBJbyD4/g=" crossorigin="anonymous"></script>
-    
 
     
     
@@ -590,45 +555,13 @@ summary(cars) ## speed dist ## Min. : 4.0 Min. : 2.00 ## 1st Qu.:12.0 1st Qu.: 2
     
 
     
-    
-    
-    
-    
-    
-    <script>
-      const search_config = {"indexURI":"/index.json","minLength":1,"threshold":0.3};
-      const i18n = {"no_results":"No results found","placeholder":"Search...","results":"results found"};
-      const content_type = {
-        'post': "Posts",
-        'project': "Projects",
-        'publication' : "Publications",
-        'talk' : "Talks"
-        };
-    </script>
-    
 
     
     
 
     
-    
-    <script id="search-hit-fuse-template" type="text/x-template">
-      <div class="search-hit" id="summary-{{key}}">
-      <div class="search-hit-content">
-        <div class="search-hit-name">
-          <a href="{{relpermalink}}">{{title}}</a>
-          <div class="article-metadata search-hit-type">{{type}}</div>
-          <p class="search-hit-description">{{snippet}}</p>
-        </div>
-      </div>
-      </div>
-    </script>
-    
 
     
-    
-    <script src="https://cdnjs.cloudflare.com/ajax/libs/fuse.js/3.2.1/fuse.min.js" integrity="sha256-VzgmKYmhsGNNN4Ph1kMW+BjoYJM2jV5i4IlFoeZA9XI=" crossorigin="anonymous"></script>
-    <script src="https://cdnjs.cloudflare.com/ajax/libs/mark.js/8.11.1/jquery.mark.min.js" integrity="sha256-4HLtjeVgH0eIB3aZ9mLYF6E8oU5chNdjU6p6rrXpl9U=" crossorigin="anonymous"></script>
     
 
     
@@ -646,12 +579,10 @@ summary(cars) ## speed dist ## Min. : 4.0 Min. : 2.00 ## 1st Qu.:12.0 1st Qu.: 2
     
     
     
-      
     
     
     
-    
-    <script src="/js/academic.min.a8d7005002cb4a052fd6d721e83df9ba.js"></script>
+    <script src="/js/academic.min.c97b94000ee75a76d9bc08f5a2e44814.js"></script>
 
     
 

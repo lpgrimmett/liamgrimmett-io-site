@@ -28,7 +28,7 @@
   
     
   
-  <meta name="description" content="Liam Grimmett Statistics">
+  <meta name="description" content="Liam Grimmett - Statistics">
 
   
   <link rel="alternate" hreflang="en-us" href="/404.html">
@@ -39,7 +39,7 @@
   
   
   
-  <meta name="theme-color" content="#2962ff">
+  <meta name="theme-color" content="#daa520">
   
 
   
@@ -72,8 +72,6 @@
       
     
 
-    
-    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/leaflet/1.5.1/leaflet.css" integrity="sha256-SHMGCYmST46SoyGgo4YR/9AlK1vf3ff84Aq9yK4hdqM=" crossorigin="anonymous">
     
 
     
@@ -237,7 +235,7 @@
   <meta property="og:site_name" content="Liam Grimmett">
   <meta property="og:url" content="/404.html">
   <meta property="og:title" content="404 Page not found | Liam Grimmett">
-  <meta property="og:description" content="Liam Grimmett Statistics"><meta property="og:image" content="img/map[gravatar:%!s(bool=false) shape:circle]">
+  <meta property="og:description" content="Liam Grimmett - Statistics"><meta property="og:image" content="img/map[gravatar:%!s(bool=false) shape:circle]">
   <meta property="twitter:image" content="img/map[gravatar:%!s(bool=false) shape:circle]"><meta property="og:locale" content="en-us">
   
     
@@ -278,8 +276,7 @@
 
       <div id="search-box">
         
-        <input name="q" id="search-query" placeholder="Search..." autocapitalize="off"
-        autocomplete="off" autocorrect="off" spellcheck="false" type="search">
+        
         
       </div>
 
@@ -356,7 +353,7 @@
         
 
         <li class="nav-item">
-          <a class="nav-link " href="/#posts"><span>Posts</span></a>
+          <a class="nav-link " href="/#about"><span>About me</span></a>
         </li>
 
         
@@ -385,7 +382,7 @@
         
 
         <li class="nav-item">
-          <a class="nav-link " href="/#projects"><span>Projects</span></a>
+          <a class="nav-link " href="/#posts"><span>Blog</span></a>
         </li>
 
         
@@ -414,7 +411,7 @@
         
 
         <li class="nav-item">
-          <a class="nav-link " href="/#featured"><span>Publications</span></a>
+          <a class="nav-link " href="/#publications"><span>Publications</span></a>
         </li>
 
         
@@ -436,7 +433,7 @@
         
 
         <li class="nav-item">
-          <a class="nav-link " href="/courses/"><span>Courses</span></a>
+          <a class="nav-link " href="/img/cv.pdf"><span>CV</span></a>
         </li>
 
         
@@ -479,11 +476,11 @@
 
     <ul class="nav-icons navbar-nav flex-row ml-auto d-flex pl-md-2">
       
-      <li class="nav-item">
-        <a class="nav-link js-search" href="#"><i class="fas fa-search" aria-hidden="true"></i></a>
-      </li>
-      
 
+      
+      <li class="nav-item">
+        <a class="nav-link js-dark-toggle" href="#"><i class="fas fa-moon" aria-hidden="true"></i></a>
+      </li>
       
 
       
@@ -499,10 +496,6 @@
   <h1>Page not found</h1>
 
   
-  
-  <form class="d-flex align-items-center mb-3">
-    <input name="q" type="search" class="form-control" placeholder="Search..." autocomplete="off">
-  </form>
   
 
   
@@ -521,19 +514,19 @@
     
       <li><a href="/talk/example/">Example Talk</a></li>
     
-      <li><a href="/post/writing-technical-content/">Writing technical content in Academic</a></li>
+      <li><a href="/publication/grimmett20/">A binning-free method reveals a continuous relationship between galaxies&#39; AGN power and offset from main sequence</a></li>
     
-      <li><a href="/publication/preprint/">An example preprint / working paper</a></li>
+      <li><a href="/publication/delvecchio20/">The Evolving AGN Duty Cycle in Galaxies Since z ∼ 3 as Encoded in the X-Ray Luminosity Function</a></li>
     
-      <li><a href="/post/jupyter/">Display Jupyter Notebooks with Academic</a></li>
+      <li><a href="/publication/delvecchio19/">The Galaxy&#39;s Gas Content Regulated by the Dark Matter Halo Mass Results in a Superlinear MBH-M* Relation</a></li>
+    
+      <li><a href="/publication/schoettler19/">Dynamical evolution of star-forming regions: III. Unbound stars and predictions for Gaia</a></li>
+    
+      <li><a href="/publication/grimmett19/">Revealing the differences in the SMBH accretion rate distributions of starburst and non-starburst galaxies</a></li>
     
       <li><a href="/slides/example/">Slides</a></li>
     
-      <li><a href="/privacy/">Privacy Policy</a></li>
-    
-      <li><a href="/terms/">Terms</a></li>
-    
-      <li><a href="/project/external-project/">External Project</a></li>
+      <li><a href="/publication/bernhard19/">Inferring a difference in the star-forming properties of lower versus higher X-ray luminosity AGNs</a></li>
     
   </ul>
   
@@ -566,8 +559,6 @@
 
     
     
-      <script src="https://cdnjs.cloudflare.com/ajax/libs/leaflet/1.5.1/leaflet.js" integrity="sha256-EErZamuLefUnbMBQbsEqu1USa+btR2oIlCpBJbyD4/g=" crossorigin="anonymous"></script>
-    
 
     
     
@@ -580,45 +571,13 @@
     
 
     
-    
-    
-    
-    
-    
-    <script>
-      const search_config = {"indexURI":"/index.json","minLength":1,"threshold":0.3};
-      const i18n = {"no_results":"No results found","placeholder":"Search...","results":"results found"};
-      const content_type = {
-        'post': "Posts",
-        'project': "Projects",
-        'publication' : "Publications",
-        'talk' : "Talks"
-        };
-    </script>
-    
 
     
     
 
     
-    
-    <script id="search-hit-fuse-template" type="text/x-template">
-      <div class="search-hit" id="summary-{{key}}">
-      <div class="search-hit-content">
-        <div class="search-hit-name">
-          <a href="{{relpermalink}}">{{title}}</a>
-          <div class="article-metadata search-hit-type">{{type}}</div>
-          <p class="search-hit-description">{{snippet}}</p>
-        </div>
-      </div>
-      </div>
-    </script>
-    
 
     
-    
-    <script src="https://cdnjs.cloudflare.com/ajax/libs/fuse.js/3.2.1/fuse.min.js" integrity="sha256-VzgmKYmhsGNNN4Ph1kMW+BjoYJM2jV5i4IlFoeZA9XI=" crossorigin="anonymous"></script>
-    <script src="https://cdnjs.cloudflare.com/ajax/libs/mark.js/8.11.1/jquery.mark.min.js" integrity="sha256-4HLtjeVgH0eIB3aZ9mLYF6E8oU5chNdjU6p6rrXpl9U=" crossorigin="anonymous"></script>
     
 
     
@@ -636,12 +595,10 @@
     
     
     
-      
     
     
     
-    
-    <script src="/js/academic.min.a8d7005002cb4a052fd6d721e83df9ba.js"></script>
+    <script src="/js/academic.min.c97b94000ee75a76d9bc08f5a2e44814.js"></script>
 
     
 

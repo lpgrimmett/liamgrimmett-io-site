@@ -28,63 +28,278 @@
   </url>
   
   <url>
-    <loc>/post/</loc>
-    <lastmod>2019-09-05T00:00:00+00:00</lastmod>
+    <loc>/publication_types/2/</loc>
+    <lastmod>2020-05-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/post/writing-technical-content/</loc>
-    <lastmod>2019-07-12T00:00:00+00:00</lastmod>
+    <loc>/publication/grimmett20/</loc>
+    <lastmod>2020-05-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/astrophysics-astrophysics-of-galaxies/</loc>
+    <lastmod>2020-05-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/</loc>
+    <lastmod>2020-05-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/c.~m.-harrison/</loc>
+    <lastmod>2020-05-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/d.~m.-alexander/</loc>
+    <lastmod>2020-05-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/e.~p.-bernhard/</loc>
+    <lastmod>2020-05-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/f.-stanley/</loc>
+    <lastmod>2020-05-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/galaxies-evolution/</loc>
+    <lastmod>2020-05-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/galaxies-statistics/</loc>
+    <lastmod>2020-05-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/j.~r.-mullaney/</loc>
+    <lastmod>2020-05-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/k.-walters/</loc>
+    <lastmod>2020-05-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/l.~p.-grimmett/</loc>
+    <lastmod>2020-05-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/methods-statistical/</loc>
+    <lastmod>2020-05-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication_types/</loc>
+    <lastmod>2020-05-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication/</loc>
+    <lastmod>2020-05-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/</loc>
+    <lastmod>2020-05-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/v.~a.-masoura/</loc>
+    <lastmod>2020-05-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/a.-cimatti/</loc>
+    <lastmod>2020-03-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/d.-elbaz/</loc>
+    <lastmod>2020-03-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/e.-bernhard/</loc>
+    <lastmod>2020-03-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/e.-daddi/</loc>
+    <lastmod>2020-03-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/f.-vito/</loc>
+    <lastmod>2020-03-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/g.-rodighiero/</loc>
+    <lastmod>2020-03-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/g.-zamorani/</loc>
+    <lastmod>2020-03-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/i.-delvecchio/</loc>
+    <lastmod>2020-03-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/j.-aird/</loc>
+    <lastmod>2020-03-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/n.-caplar/</loc>
+    <lastmod>2020-03-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/r.-carraro/</loc>
+    <lastmod>2020-03-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication/delvecchio20/</loc>
+    <lastmod>2020-03-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/active-galaxies/</loc>
+    <lastmod>2019-11-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/agn-host-galaxies/</loc>
+    <lastmod>2019-11-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/f.-shankar/</loc>
+    <lastmod>2019-11-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/galaxy-dark-matter-halos/</loc>
+    <lastmod>2019-11-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/galaxy-evolution/</loc>
+    <lastmod>2019-11-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/m.-giavalisco/</loc>
+    <lastmod>2019-11-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/supermassive-black-holes/</loc>
+    <lastmod>2019-11-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication/delvecchio19/</loc>
+    <lastmod>2019-11-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/astrophysics-solar-and-stellar-astrophysics/</loc>
+    <lastmod>2019-08-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/becky-arnold/</loc>
+    <lastmod>2019-08-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/christina-schoettler/</loc>
+    <lastmod>2019-08-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication/schoettler19/</loc>
+    <lastmod>2019-08-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/galaxies-active/</loc>
+    <lastmod>2019-08-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/jos-de-bruijne/</loc>
+    <lastmod>2019-08-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/liam-p.-grimmett/</loc>
+    <lastmod>2019-08-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/methods-numerical/</loc>
+    <lastmod>2019-08-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/nicholas-j.-wright/</loc>
+    <lastmod>2019-08-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/open-clusters-and-associations-general/</loc>
+    <lastmod>2019-08-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication/grimmett19/</loc>
+    <lastmod>2019-08-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/richard-j.-parker/</loc>
+    <lastmod>2019-08-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/s.-jin/</loc>
+    <lastmod>2019-08-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/stars-formation/</loc>
+    <lastmod>2019-08-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/stars-kinematics-and-dynamics/</loc>
+    <lastmod>2019-08-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/x-rays-galaxies/</loc>
+    <lastmod>2019-08-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>/courses/</loc>
     <lastmod>2019-05-05T00:00:00+01:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/authors/admin/</loc>
-    <lastmod>2019-09-05T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/publication_types/3/</loc>
-    <lastmod>2019-04-07T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/publication/preprint/</loc>
-    <lastmod>2019-04-07T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/authors/</loc>
-    <lastmod>2019-09-05T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/publication_types/</loc>
-    <lastmod>2019-04-07T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/publication/</loc>
-    <lastmod>2019-04-07T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tags/source-themes/</loc>
-    <lastmod>2019-04-07T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tags/</loc>
-    <lastmod>2019-04-17T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/post/jupyter/</loc>
-    <lastmod>2019-09-05T00:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -95,6 +310,16 @@
   <url>
     <loc>/slides/example/</loc>
     <lastmod>2019-02-05T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/c.-tadhunter/</loc>
+    <lastmod>2019-02-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication/bernhard19/</loc>
+    <lastmod>2019-02-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -110,6 +335,31 @@
   <url>
     <loc>/terms/</loc>
     <lastmod>2018-06-28T00:00:00+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication/bernhard18/</loc>
+    <lastmod>2018-05-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/galaxies-luminosity-function/</loc>
+    <lastmod>2018-05-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/m.~l.-jones/</loc>
+    <lastmod>2018-05-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/mass-function/</loc>
+    <lastmod>2018-05-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/r.~c.-hickox/</loc>
+    <lastmod>2018-05-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -138,73 +388,11 @@
   </url>
   
   <url>
-    <loc>/tags/academic/</loc>
-    <lastmod>2019-04-17T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/post/getting-started/</loc>
-    <lastmod>2019-04-17T00:00:00+00:00</lastmod>
+    <loc>/authors/admin/</loc>
   </url>
   
   <url>
     <loc>/categories/</loc>
-    <lastmod>2019-04-17T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/categories/demo/</loc>
-    <lastmod>2019-04-17T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/publication_types/2/</loc>
-    <lastmod>2015-09-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/publication/journal-article/</loc>
-    <lastmod>2015-09-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/authors/robert-ford/</loc>
-    <lastmod>2015-09-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/post/2015-07-23-r-rmarkdown/</loc>
-    <lastmod>2015-07-23T21:13:14-05:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tags/plot/</loc>
-    <lastmod>2015-07-23T21:13:14-05:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/categories/r/</loc>
-    <lastmod>2015-07-23T21:13:14-05:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tags/r-markdown/</loc>
-    <lastmod>2015-07-23T21:13:14-05:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tags/regression/</loc>
-    <lastmod>2015-07-23T21:13:14-05:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/publication_types/1/</loc>
-    <lastmod>2013-07-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/publication/conference-paper/</loc>
-    <lastmod>2013-07-01T00:00:00+00:00</lastmod>
   </url>
   
 </urlset>
