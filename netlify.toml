@@ -1,0 +1,29 @@
+[[redirects]]
+  from = "http://japarry.netlify.com/*"
+  to = "http//jordanparry.uk/:splat"
+  status = 301
+  force = true
+  
+[[redirects]]
+  from = "http://www.japarry.netlify.com/*"
+  to = "http//jordanparry.uk/:splat"
+  status = 301
+  force = true
+
+[[redirects]]
+  from = "http://www.jordanparry.co.uk/*"
+  to = "http//jordanparry.uk/:splat"
+  status = 301
+  force = true
+  
+[[redirects]]
+  from = "http://jordanparry.co.uk/*"
+  to = "http//jordanparry.uk/:splat"
+  status = 301
+  force = true
+  
+[[redirects]]
+  from = "http://www.jordanparry.uk/*"
+  to = "http//jordanparry.uk/:splat"
+  status = 301
+  force = true
