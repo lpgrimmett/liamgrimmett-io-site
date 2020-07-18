@@ -1,0 +1,50 @@
+---
+title: "Super League so far..."
+author: "Liam P. Grimmett"
+date: 2015-07-23 T21:13:14-05:00
+categories: ["R"]
+tags: ["R Markdown", "plot", "regression"]
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(collapse = TRUE)
+```
+
+# R Markdown
+
+
+```{r, echo=FALSE}
+team <- c("Wigan","Leeds","Castleford","St Helens","Catalans","Huddersfield","Wakefield","Toronto","Hull KR", "Hull FC","Warrington","Salford","Wigan","Leeds","Castleford","St Helens","Catalans","Huddersfield","Wakefield","Toronto","Hull KR", "Hull FC","Warrington","Salford","Wigan","Leeds","Castleford","St Helens","Catalans","Huddersfield","Wakefield","Toronto","Hull KR", "Hull FC","Warrington","Salford","Wigan","Leeds","Castleford","St Helens","Catalans","Huddersfield","Wakefield","Toronto","Hull KR", "Hull FC","Warrington","Salford","Wigan","Leeds","Castleford","St Helens","Catalans","Huddersfield","Wakefield","Toronto","Hull KR", "Hull FC","Warrington","Salford","Wigan","Leeds","Castleford","St Helens","Catalans","Huddersfield","Wakefield","Toronto","Hull KR", "Hull FC","Warrington","Salford")
+
+pitcharea <- c("left","left","left","left","left","left","left","left","left","left","left","left","middle","middle","middle","middle","middle","middle","middle","middle","middle","middle","middle","middle","right","right","right","right","right","right","right","right","right","right","right","right","left","left","left","left","left","left","left","left","left","left","left","left","middle","middle","middle","middle","middle","middle","middle","middle","middle","middle","middle","middle","right","right","right","right","right","right","right","right","right","right","right","right")
+
+direction <- c(1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2)
+
+value <- runif(72,2,8) 
+
+sl.data <- data.frame(team, pitcharea, direction, value)
+```
+
+# Including Plots
+
+```{r, echo=FALSE}
+#sl.data
+library(ggplot2)
+ggplot(sl.data,aes(x=pitcharea,y=value, fill=as.factor(direction)))+
+  geom_bar(stat="identity", position="dodge") + 
+  facet_wrap(~ team, ncol=3) #
+
+
+```
+
+You can also embed plots. See Figure \@ref(fig:pie) for example:
+
+```{r pie, fig.cap='A fancy pie chart.', tidy=FALSE}
+par(mar = c(0, 1, 0, 1))
+pie(
+  c(280, 60, 20),
+  c('Sky', 'Sunny side of pyramid', 'Shady side of pyramid'),
+  col = c('#0292D8', '#F7EA39', '#C4B632'),
+  init.angle = -50, border = NA
+)
+```
