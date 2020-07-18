@@ -1,29 +1,17 @@
 [[redirects]]
-  from = "http://japarry.netlify.com/*"
-  to = "http//jordanparry.uk/:splat"
+  from = "https://lpgrimmett.netlify.com/*"
+  to = "https://liampgrimmett.uk/:splat"
   status = 301
   force = true
   
 [[redirects]]
-  from = "http://www.japarry.netlify.com/*"
-  to = "http//jordanparry.uk/:splat"
+  from = "https://www.lpgrimmett.netlify.com/*"
+  to = "https://liampgrimmett.uk/:splat"
   status = 301
   force = true
 
 [[redirects]]
-  from = "http://www.jordanparry.co.uk/*"
-  to = "http//jordanparry.uk/:splat"
-  status = 301
-  force = true
-  
-[[redirects]]
-  from = "http://jordanparry.co.uk/*"
-  to = "http//jordanparry.uk/:splat"
-  status = 301
-  force = true
-  
-[[redirects]]
-  from = "http://www.jordanparry.uk/*"
-  to = "http//jordanparry.uk/:splat"
+  from = "https://www.liampgrimmett.uk/*"
+  to = "https://liampgrimmett.uk/:splat"
   status = 301
   force = true
