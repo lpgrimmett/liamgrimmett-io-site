@@ -10,8 +10,8 @@
   status = 301
   force = true
 
-[[redirects]]
-  from = "https://www.liampgrimmett.uk/*"
-  to = "https://liampgrimmett.uk/:splat"
-  status = 301
-  force = true
+#[[redirects]]
+#  from = "https://www.liampgrimmett.uk/*"
+#  to = "https://liampgrimmett.uk/:splat"
+#  status = 301
+#  force = true
