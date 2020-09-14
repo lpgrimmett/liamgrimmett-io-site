@@ -23,9 +23,6 @@ organizations:
   url: ""
 role: Research Fellow
 social:
-- icon: envelope
-  icon_pack: fas
-  link: '#contact'
 - icon: twitter
   icon_pack: fab
   link: https://twitter.com/LiamGrimmett
@@ -38,6 +35,13 @@ social:
 - icon: linkedin
   icon_pack: fab
   link: https://www.linkedin.com/in/liam-grimmett-926767102/
+- icon: ads
+  icon_pack: ai
+  link: https://ui.adsabs.harvard.edu/search/q=%20%20author%3A%22Grimmett%2C%20L.P.%22&sort=date%20desc%2C%20bibcode%20desc&p_=0
+- icon: cv
+  icon_pack: ai
+  link: https://www.liampgrimmett.uk/img/cv.pdf
+  
 superuser: true
 user_groups:
 - Researchers
@@ -47,7 +51,7 @@ user_groups:
 I am (from September 2020) a Research Fellow in Functional Data Analysis at the University of Leeds. 
 Prior to that, I was a Statistical-Astronomy PhD student at the University of Sheffield. My PhD research focussed on where the most massive Black Holes live, and the impact they can have on their surrounding galaxies. For academic research, see my publications below.
 
-I am also a co-founder of [JaGNum](https://www.jagnum.uk/) - a newly founded statistics/numerical consultancy company. Check out the JaGNum website on how we may be able to help you and for an interesting numeric blog.
+I am also a co-founder of [JaGNum](https://www.jagnum.uk/) - a newly founded statistics/numerical consultancy company. Check out the [JaGNum](https://www.jagnum.uk/) website on how we may be able to help you. There is also the [JaGNum blog](https://www.jagnum.uk/post/).
 
 Outside of work, I am mostly interested in sport (primarily Rugby League and Boxing) and politics and usually give my opinions on [twitter](https://twitter.com/LiamGrimmett). 
 
