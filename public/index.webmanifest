@@ -2,8 +2,8 @@
   "name": "Liam Grimmett",
   "short_name": "Liam Grimmett",
   "lang": "en-us",
-  "theme_color": "#daa520",
-  "background_color": "#daa520",
+  "theme_color": "#1a1a1a",
+  "background_color": "#1a1a1a",
   "icons": [{
     "src": "/images/icon_hu6c90406f6e9f69bfd6528edb509db038_126844_192x192_fill_lanczos_center_2.png",
     "sizes": "192x192",
