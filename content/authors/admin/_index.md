@@ -48,12 +48,12 @@ user_groups:
 - Visitors
 ---
 
-I am (from September 2020) a Research Fellow in Functional Data Analysis at the University of Leeds. 
-Prior to that, I was a Statistical-Astronomy PhD student at the University of Sheffield. My PhD research focussed on where the most massive Black Holes live, and the impact they can have on their surrounding galaxies. For academic research, see my publications below.
+I am (from September 2020) a Research Fellow in Functional Data Analysis at The University of Leeds. 
+Prior to that, I was a Statistical Astronomy PhD student working under the supervision of [**Dr. James Mullaney**](https://jamesmullaney.staff.shef.ac.uk/) at The University of Sheffield. My PhD research focused on identifying where the most massive Black Holes live and the impact they can have on their surrounding galaxies. For academic research, see my publications below.
 
-I am also a co-founder of [JaGNum](https://www.jagnum.uk/) - a newly founded statistics/numerical consultancy company. Check out the [JaGNum](https://www.jagnum.uk/) website on how we may be able to help you. There is also the [JaGNum blog](https://www.jagnum.uk/post/).
+I am also a co-founder of [**JaGNum**](https://www.jagnum.uk/) - a newly founded statistics/numerical consultancy company. Check out the [**JaGNum**](https://www.jagnum.uk/) website on how we may be able to help you. There is also the [**JaGNum blog**](https://www.jagnum.uk/blog/).
 
-Outside of work, I am mostly interested in sport (primarily Rugby League and Boxing) and politics and usually give my opinions on [twitter](https://twitter.com/LiamGrimmett). 
+Outside of work, I am mostly interested in sport (primarily Rugby League and Boxing) and politics and usually give my opinions on [**twitter**](https://twitter.com/LiamGrimmett). 
 
 
 
