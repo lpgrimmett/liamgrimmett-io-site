@@ -53,7 +53,7 @@ Prior to that, I was a Statistical Astronomy PhD student working under the super
 
 I am also a co-founder of [**JaGNum**](https://www.jagnum.uk/) - a new statistics/numerical consultancy company. Check out the [**JaGNum**](https://www.jagnum.uk/) website on how we may be able to help you. On this front, I also hold GradStat status from the Royal Statistical Society.
 
-Outside of work, I am mostly interested in sport (primarily Rugby League and Boxing) and politics and usually give my opinions on [**twitter**](https://twitter.com/LiamGrimmett). 
+Outside of work, I am mostly interested in sport (primarily Rugby League and Boxing) and politics and usually give my opinions on [**twitter**](https://twitter.com/LiamGrimmett). I am also a committee member of the Royal Statistics Society's [**Official Statistics Section**](https://rss.org.uk/membership/rss-groups-and-committees/sections/official-statistics/). 
 
 
 
