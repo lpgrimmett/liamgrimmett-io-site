@@ -17,7 +17,7 @@ interests:
 - Bayesian Statistics
 - Computational Statistics
 - Statistics in Sport 
-name: Dr. Liam P. Grimmett
+name: Dr Liam P. Grimmett
 organizations:
 - name: The University of Leeds
   url: ""
