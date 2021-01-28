@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>V.~A. Masoura | Dr Liam P. Grimmett</title>
-    <link>www.liampgrimmett.uk/authors/v.~a.-masoura/</link>
-      <atom:link href="www.liampgrimmett.uk/authors/v.~a.-masoura/index.xml" rel="self" type="application/rss+xml" />
+    <link>/authors/v.~a.-masoura/</link>
+      <atom:link href="/authors/v.~a.-masoura/index.xml" rel="self" type="application/rss+xml" />
     <description>V.~A. Masoura</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© Liam Grimmett 2021</copyright><lastBuildDate>Fri, 01 May 2020 00:00:00 +0000</lastBuildDate>
     <image>
       <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
       <title>V.~A. Masoura</title>
-      <link>www.liampgrimmett.uk/authors/v.~a.-masoura/</link>
+      <link>/authors/v.~a.-masoura/</link>
     </image>
     
     <item>
       <title>A binning-free method reveals a continuous relationship between galaxies&#39; AGN power and offset from main sequence</title>
-      <link>www.liampgrimmett.uk/publication/grimmett20/</link>
+      <link>/publication/grimmett20/</link>
       <pubDate>Fri, 01 May 2020 00:00:00 +0000</pubDate>
-      <guid>www.liampgrimmett.uk/publication/grimmett20/</guid>
+      <guid>/publication/grimmett20/</guid>
       <description></description>
     </item>
     

@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>G. Rodighiero | Dr Liam P. Grimmett</title>
-    <link>www.liampgrimmett.uk/authors/g.-rodighiero/</link>
-      <atom:link href="www.liampgrimmett.uk/authors/g.-rodighiero/index.xml" rel="self" type="application/rss+xml" />
+    <link>/authors/g.-rodighiero/</link>
+      <atom:link href="/authors/g.-rodighiero/index.xml" rel="self" type="application/rss+xml" />
     <description>G. Rodighiero</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© Liam Grimmett 2021</copyright><lastBuildDate>Sun, 01 Mar 2020 00:00:00 +0000</lastBuildDate>
     <image>
       <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
       <title>G. Rodighiero</title>
-      <link>www.liampgrimmett.uk/authors/g.-rodighiero/</link>
+      <link>/authors/g.-rodighiero/</link>
     </image>
     
     <item>
       <title>The Evolving AGN Duty Cycle in Galaxies Since z ∼ 3 as Encoded in the X-Ray Luminosity Function</title>
-      <link>www.liampgrimmett.uk/publication/delvecchio20/</link>
+      <link>/publication/delvecchio20/</link>
       <pubDate>Sun, 01 Mar 2020 00:00:00 +0000</pubDate>
-      <guid>www.liampgrimmett.uk/publication/delvecchio20/</guid>
+      <guid>/publication/delvecchio20/</guid>
       <description></description>
     </item>
     

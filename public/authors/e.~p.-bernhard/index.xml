@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>E.~P. Bernhard | Dr Liam P. Grimmett</title>
-    <link>www.liampgrimmett.uk/authors/e.~p.-bernhard/</link>
-      <atom:link href="www.liampgrimmett.uk/authors/e.~p.-bernhard/index.xml" rel="self" type="application/rss+xml" />
+    <link>/authors/e.~p.-bernhard/</link>
+      <atom:link href="/authors/e.~p.-bernhard/index.xml" rel="self" type="application/rss+xml" />
     <description>E.~P. Bernhard</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© Liam Grimmett 2021</copyright><lastBuildDate>Fri, 01 May 2020 00:00:00 +0000</lastBuildDate>
     <image>
       <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
       <title>E.~P. Bernhard</title>
-      <link>www.liampgrimmett.uk/authors/e.~p.-bernhard/</link>
+      <link>/authors/e.~p.-bernhard/</link>
     </image>
     
     <item>
       <title>A binning-free method reveals a continuous relationship between galaxies&#39; AGN power and offset from main sequence</title>
-      <link>www.liampgrimmett.uk/publication/grimmett20/</link>
+      <link>/publication/grimmett20/</link>
       <pubDate>Fri, 01 May 2020 00:00:00 +0000</pubDate>
-      <guid>www.liampgrimmett.uk/publication/grimmett20/</guid>
+      <guid>/publication/grimmett20/</guid>
       <description></description>
     </item>
     

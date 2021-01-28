@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>C. Tadhunter | Dr Liam P. Grimmett</title>
-    <link>www.liampgrimmett.uk/authors/c.-tadhunter/</link>
-      <atom:link href="www.liampgrimmett.uk/authors/c.-tadhunter/index.xml" rel="self" type="application/rss+xml" />
+    <link>/authors/c.-tadhunter/</link>
+      <atom:link href="/authors/c.-tadhunter/index.xml" rel="self" type="application/rss+xml" />
     <description>C. Tadhunter</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© Liam Grimmett 2021</copyright><lastBuildDate>Fri, 01 Feb 2019 00:00:00 +0000</lastBuildDate>
     <image>
       <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
       <title>C. Tadhunter</title>
-      <link>www.liampgrimmett.uk/authors/c.-tadhunter/</link>
+      <link>/authors/c.-tadhunter/</link>
     </image>
     
     <item>
       <title>Inferring a difference in the star-forming properties of lower versus higher X-ray luminosity AGNs</title>
-      <link>www.liampgrimmett.uk/publication/bernhard19/</link>
+      <link>/publication/bernhard19/</link>
       <pubDate>Fri, 01 Feb 2019 00:00:00 +0000</pubDate>
-      <guid>www.liampgrimmett.uk/publication/bernhard19/</guid>
+      <guid>/publication/bernhard19/</guid>
       <description></description>
     </item>
     

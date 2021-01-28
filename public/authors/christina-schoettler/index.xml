@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Christina Schoettler | Dr Liam P. Grimmett</title>
-    <link>www.liampgrimmett.uk/authors/christina-schoettler/</link>
-      <atom:link href="www.liampgrimmett.uk/authors/christina-schoettler/index.xml" rel="self" type="application/rss+xml" />
+    <link>/authors/christina-schoettler/</link>
+      <atom:link href="/authors/christina-schoettler/index.xml" rel="self" type="application/rss+xml" />
     <description>Christina Schoettler</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© Liam Grimmett 2021</copyright><lastBuildDate>Thu, 01 Aug 2019 00:00:00 +0000</lastBuildDate>
     <image>
       <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
       <title>Christina Schoettler</title>
-      <link>www.liampgrimmett.uk/authors/christina-schoettler/</link>
+      <link>/authors/christina-schoettler/</link>
     </image>
     
     <item>
       <title>Dynamical evolution of star-forming regions: III. Unbound stars and predictions for Gaia</title>
-      <link>www.liampgrimmett.uk/publication/schoettler19/</link>
+      <link>/publication/schoettler19/</link>
       <pubDate>Thu, 01 Aug 2019 00:00:00 +0000</pubDate>
-      <guid>www.liampgrimmett.uk/publication/schoettler19/</guid>
+      <guid>/publication/schoettler19/</guid>
       <description></description>
     </item>
     
