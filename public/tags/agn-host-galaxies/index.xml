@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>AGN host galaxies | Dr Liam P. Grimmett</title>
-    <link>/tags/agn-host-galaxies/</link>
-      <atom:link href="/tags/agn-host-galaxies/index.xml" rel="self" type="application/rss+xml" />
+    <link>www.liampgrimmett.uk/tags/agn-host-galaxies/</link>
+      <atom:link href="www.liampgrimmett.uk/tags/agn-host-galaxies/index.xml" rel="self" type="application/rss+xml" />
     <description>AGN host galaxies</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© Liam Grimmett 2021</copyright><lastBuildDate>Fri, 01 Nov 2019 00:00:00 +0000</lastBuildDate>
     <image>
       <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
       <title>AGN host galaxies</title>
-      <link>/tags/agn-host-galaxies/</link>
+      <link>www.liampgrimmett.uk/tags/agn-host-galaxies/</link>
     </image>
     
     <item>
       <title>The Galaxy&#39;s Gas Content Regulated by the Dark Matter Halo Mass Results in a Superlinear MBH-M* Relation</title>
-      <link>/publication/delvecchio19/</link>
+      <link>www.liampgrimmett.uk/publication/delvecchio19/</link>
       <pubDate>Fri, 01 Nov 2019 00:00:00 +0000</pubDate>
-      <guid>/publication/delvecchio19/</guid>
+      <guid>www.liampgrimmett.uk/publication/delvecchio19/</guid>
       <description></description>
     </item>
     

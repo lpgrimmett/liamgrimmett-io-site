@@ -2,29 +2,29 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>I. Delvecchio | Dr Liam P. Grimmett</title>
-    <link>/authors/i.-delvecchio/</link>
-      <atom:link href="/authors/i.-delvecchio/index.xml" rel="self" type="application/rss+xml" />
+    <link>www.liampgrimmett.uk/authors/i.-delvecchio/</link>
+      <atom:link href="www.liampgrimmett.uk/authors/i.-delvecchio/index.xml" rel="self" type="application/rss+xml" />
     <description>I. Delvecchio</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© Liam Grimmett 2021</copyright><lastBuildDate>Sun, 01 Mar 2020 00:00:00 +0000</lastBuildDate>
     <image>
       <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
       <title>I. Delvecchio</title>
-      <link>/authors/i.-delvecchio/</link>
+      <link>www.liampgrimmett.uk/authors/i.-delvecchio/</link>
     </image>
     
     <item>
       <title>The Evolving AGN Duty Cycle in Galaxies Since z ∼ 3 as Encoded in the X-Ray Luminosity Function</title>
-      <link>/publication/delvecchio20/</link>
+      <link>www.liampgrimmett.uk/publication/delvecchio20/</link>
       <pubDate>Sun, 01 Mar 2020 00:00:00 +0000</pubDate>
-      <guid>/publication/delvecchio20/</guid>
+      <guid>www.liampgrimmett.uk/publication/delvecchio20/</guid>
       <description></description>
     </item>
     
     <item>
       <title>The Galaxy&#39;s Gas Content Regulated by the Dark Matter Halo Mass Results in a Superlinear MBH-M* Relation</title>
-      <link>/publication/delvecchio19/</link>
+      <link>www.liampgrimmett.uk/publication/delvecchio19/</link>
       <pubDate>Fri, 01 Nov 2019 00:00:00 +0000</pubDate>
-      <guid>/publication/delvecchio19/</guid>
+      <guid>www.liampgrimmett.uk/publication/delvecchio19/</guid>
       <description></description>
     </item>
     

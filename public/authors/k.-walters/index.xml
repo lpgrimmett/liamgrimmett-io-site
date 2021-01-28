@@ -2,29 +2,29 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>K. Walters | Dr Liam P. Grimmett</title>
-    <link>/authors/k.-walters/</link>
-      <atom:link href="/authors/k.-walters/index.xml" rel="self" type="application/rss+xml" />
+    <link>www.liampgrimmett.uk/authors/k.-walters/</link>
+      <atom:link href="www.liampgrimmett.uk/authors/k.-walters/index.xml" rel="self" type="application/rss+xml" />
     <description>K. Walters</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© Liam Grimmett 2021</copyright><lastBuildDate>Fri, 01 May 2020 00:00:00 +0000</lastBuildDate>
     <image>
       <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
       <title>K. Walters</title>
-      <link>/authors/k.-walters/</link>
+      <link>www.liampgrimmett.uk/authors/k.-walters/</link>
     </image>
     
     <item>
       <title>A binning-free method reveals a continuous relationship between galaxies&#39; AGN power and offset from main sequence</title>
-      <link>/publication/grimmett20/</link>
+      <link>www.liampgrimmett.uk/publication/grimmett20/</link>
       <pubDate>Fri, 01 May 2020 00:00:00 +0000</pubDate>
-      <guid>/publication/grimmett20/</guid>
+      <guid>www.liampgrimmett.uk/publication/grimmett20/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Revealing the differences in the SMBH accretion rate distributions of starburst and non-starburst galaxies</title>
-      <link>/publication/grimmett19/</link>
+      <link>www.liampgrimmett.uk/publication/grimmett19/</link>
       <pubDate>Thu, 01 Aug 2019 00:00:00 +0000</pubDate>
-      <guid>/publication/grimmett19/</guid>
+      <guid>www.liampgrimmett.uk/publication/grimmett19/</guid>
       <description></description>
     </item>
     

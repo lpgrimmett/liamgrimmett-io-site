@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Amy L. Bottrill | Dr Liam P. Grimmett</title>
-    <link>/authors/amy-l.-bottrill/</link>
-      <atom:link href="/authors/amy-l.-bottrill/index.xml" rel="self" type="application/rss+xml" />
+    <link>www.liampgrimmett.uk/authors/amy-l.-bottrill/</link>
+      <atom:link href="www.liampgrimmett.uk/authors/amy-l.-bottrill/index.xml" rel="self" type="application/rss+xml" />
     <description>Amy L. Bottrill</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© Liam Grimmett 2021</copyright><lastBuildDate>Mon, 01 Jun 2020 00:00:00 +0000</lastBuildDate>
     <image>
       <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
       <title>Amy L. Bottrill</title>
-      <link>/authors/amy-l.-bottrill/</link>
+      <link>www.liampgrimmett.uk/authors/amy-l.-bottrill/</link>
     </image>
     
     <item>
       <title>Exoplanet detection and its dependence on stochastic sampling of the stellar Initial Mass Function</title>
-      <link>/publication/bottrill20/</link>
+      <link>www.liampgrimmett.uk/publication/bottrill20/</link>
       <pubDate>Mon, 01 Jun 2020 00:00:00 +0000</pubDate>
-      <guid>/publication/bottrill20/</guid>
+      <guid>www.liampgrimmett.uk/publication/bottrill20/</guid>
       <description></description>
     </item>
     

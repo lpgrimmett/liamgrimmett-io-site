@@ -38,10 +38,7 @@ social:
 - icon: ads
   icon_pack: ai
   link: https://ui.adsabs.harvard.edu/search/q=%20%20author%3A%22Grimmett%2C%20L.P.%22&sort=date%20desc%2C%20bibcode%20desc&p_=0
-- icon: cv
-  icon_pack: ai
-  link: https://www.liampgrimmett.uk/img/cv.pdf
-  
+
 superuser: true
 user_groups:
 - Researchers
